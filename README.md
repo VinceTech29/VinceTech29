@@ -1,12 +1,13 @@
 <h2 align="left">
   Hi 
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ5d2R3M2ZxYzFsa3N3MGRlZ2ZzY2Z5aWw2Z2Z6cHc4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" 
-    width="32" 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1aGx2M2d2dW8zM3l6d2R2Z2p1b2F1b2J6d2FqY3Z6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OkJat1YNdoDqk/giphy.gif" 
+    width="30" 
     style="vertical-align: middle;"
   />
   I am Vince Pablo.
 </h2>
+
 
 
 <div align="center">
