@@ -1,7 +1,13 @@
 <h2 align="left">
-  Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5lZzZrN3d6b3V6b3VxZ2x5dDk0c2Z2ZzZyY3ZqY2F4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"/> 
+  Hi 
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZlY3V3dHRvNnF4cXhyZHFuNmZ6ZXR2a2V3c3Q1aGk5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" 
+    width="32" 
+    style="vertical-align: middle;"
+  />
   I am Vince Pablo.
 </h2>
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
