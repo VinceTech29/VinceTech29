@@ -1,5 +1,12 @@
 <h2 align="left">Hello 👋! I am Vince  Pablo.</h2>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VinceTech29.VinceTech29&"  />
+</div>
+
+###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lourdevincent29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lrdvncnt_/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@vincebw_) 
 
 ###
 
@@ -35,8 +42,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/output/snake.svg" alt="Snake animation" />
-
-###
