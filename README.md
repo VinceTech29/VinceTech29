@@ -1,14 +1,4 @@
-<h2 align="left">
-  Hi 
-  <img
-    src="https://media.tenor.com/5HXQK4hzH_EAAAAC/hand-wave.gif"
-    width="30"
-    style="vertical-align: middle;"
-  />
-  I am Vince Pablo.
-</h2>
-
-
+<h2 align="left">Hi👋! I am Vince Pablo</h2>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
