@@ -1,13 +1,13 @@
-<<h2 align="left">
-  Hi 
+<h2 align="left">
+  Hi
   <img
-    src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107"
-    width="28"
+    src="https://media.tenor.com/6uilqvH9kq4AAAAC/hand-waving.gif"
+    width="30"
     style="vertical-align: middle;"
-    alt="👋"
   />
   I am Vince Pablo.
 </h2>
+
 
 
 
