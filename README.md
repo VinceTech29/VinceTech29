@@ -27,16 +27,6 @@
 - 🌐 Internet of Things (IoT)  
 - 🔬 Research  
 
-
-
-## 🚀 Passion
-
-- 📚 Learning  
-- 🛠️ Building  
-- 📢 Sharing knowledge  
-
-
-
 ## 🎯 Goals & Vision
 
 - 💼 Achieve a **6-digit salary**  
