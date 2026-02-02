@@ -9,7 +9,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VinceTech29.VinceTech29" />
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -18,7 +18,7 @@
 - 💡 Builds functional digital solutions  
 - 🤝 Shares knowledge and helps others grow  
 
----
+
 
 ## 🧠 Forte & Interests
 
