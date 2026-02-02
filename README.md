@@ -16,7 +16,7 @@
 - 🎓 2nd Year **BSIT** student  
 - 🧑‍🏫 Mentor  
 - 💡 Builds functional digital solutions  
-- 🤝 Shares knowledge and helps others grow  
+- 📚 Passionate about: learning, building, experimenting, and sharing knowledge
 
 
 
@@ -27,7 +27,7 @@
 - 🌐 Internet of Things (IoT)  
 - 🔬 Research  
 
----
+
 
 ## 🚀 Passion
 
@@ -35,22 +35,22 @@
 - 🛠️ Building  
 - 📢 Sharing knowledge  
 
----
 
-## 🎯 Goals
+
+## 🎯 Goals & Vision
 
 - 💼 Achieve a **6-digit salary**  
 - 🌍 Travel to many countries  
 - 📈 Grow professionally and personally  
 
----
+
 
 ## 🌴 Personal
 
 - ✈️ Loves traveling  
 - 🎉 Enjoys fun and outdoor activities  
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -58,7 +58,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lrdvncnt_/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@vincebw_)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -88,6 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
 </div>
 
----
+
 
 ⭐ *Simple. Focused. Always improving.*
