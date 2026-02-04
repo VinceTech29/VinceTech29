@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/VinceTech29/VinceTech29/blob/main/banner.gif">
-    <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/main/banner.gif" width="1200" alt="Vince Pablo Banner"/>
+  <a href="https://github.com/VinceTech29/VinceTech29/blob/58349f1319ee034ccc30d73703cceb4f7d8de257/banner1-ezgif.com-loop-count.gif">
+    <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/58349f1319ee034ccc30d73703cceb4f7d8de257/banner1-ezgif.com-loop-count.gif" width="1200" alt="Vince Pablo Banner"/>
   </a>
 </p>
+
 
 
   <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
