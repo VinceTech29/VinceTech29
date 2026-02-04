@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/21d98efea6e6526d75a89c76f641dd9f45d21c39/banner.gif" width="1200" alt="Vince Pablo Banner"/>
-</div>
+<p align="center">
+  <a href="https://github.com/VinceTech29/VinceTech29/blob/main/banner.gif">
+    <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/main/banner.gif" width="1200" alt="Vince Pablo Banner"/>
+  </a>
+</p>
+
 
   <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
   
