@@ -1,5 +1,5 @@
- <div href = "https://github.com/VinceTech29/VinceTech29/blob/main/banner.gif" align="center">
-  <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/21d98efea6e6526d75a89c76f641dd9f45d21c39/banner.gif" width="1200" alt="Vince Pablo Banner"/>
+<div align="center">
+  [![Vince Pablo Banner](https://raw.githubusercontent.com/VinceTech29/VinceTech29/main/banner.gif)](https://github.com/VinceTech29/VinceTech29/blob/main/banner.gif)
 </div>
 
   <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
