@@ -1,4 +1,7 @@
-  <h2 align="center">Hi 👋, I'm Vince Pablo</h2>
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/VinceTech29/VinceTech29/21d98efea6e6526d75a89c76f641dd9f45d21c39/banner.gif" width="1200" alt="Vince Pablo Banner"/>
+</div>
+
   <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
   
   <div align="center">
