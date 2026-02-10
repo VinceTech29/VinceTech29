@@ -4,7 +4,20 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 20px;">
+
+
+  <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
+  
+  <div align="center">
+    <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  </div>
+  
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VinceTech29.VinceTech29" />
+  </div>
+  
+  
+  <div align="center" style="margin-top: 20px;">
   <a href="https://lvp-site.netlify.app/" target="_blank" rel="noopener noreferrer" style="
     display: inline-block;
     background: linear-gradient(135deg, #1E90FF, #00BFFF);
@@ -20,20 +33,6 @@
   </a>
 </div>
 
-
-
-  <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
-  
-  <div align="center">
-    <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </div>
-  
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=VinceTech29.VinceTech29" />
-  </div>
-  
-  
-  
   ## 👨‍💻 About Me
   
   - 🎓 2nd Year **BSIT** student  
