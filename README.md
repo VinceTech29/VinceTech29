@@ -51,16 +51,15 @@ I’m Vincent, an aspiring software engineer and a continuous learner who enjoys
 - ✧ Travel to many countries
 - ✧ Grow professionally and personally
 
-  
-  ## Connect With Me
+
+## Connect With Me
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lourdevincent29)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lrdvncnt_/)
   [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@vincebw_)
   
-  
-  
-  ## Tech Stack
+
+## Tech Stack
   
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
