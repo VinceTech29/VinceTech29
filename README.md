@@ -33,36 +33,24 @@
   </a>
 </div>
 
-  ## 👨‍💻 About Me
+  ## Hello, World!☾✩
   
-  - 🎓 2nd Year **BSIT** student  
-  - 🧑‍🏫 Mentor  
-  - 💡 Builds functional digital solutions  
-  - 📚 Passionate about: learning, building, experimenting, and sharing knowledge
+I’m Vincent, an aspiring software engineer and a continuous learner who enjoys exploring new technologies, improving my skills, and building projects along the way.
   
   
   
-  ## 🧠 Forte & Interests
+  ## Forte & Interests
+✧ UI / UX Design
+✧ Database Analytics
+✧ Internet of Things (IoT)
+✧ Research
   
-  - 🎨 UI / UX Design  
-  - 📊 Database Analytics  
-  - 🌐 Internet of Things (IoT)  
-  - 🔬 Research  
+  ## Goals & Vision
   
-  ## 🎯 Goals & Vision
-  
-  - 💼 Achieve a **6-digit salary**  
-  - 🌍 Travel to many countries  
-  - 📈 Grow professionally and personally  
-  
-  
-  
-  ## 🌴 Personal
-  
-  - ✈️ Loves traveling  
-  - 🎉 Enjoys fun and outdoor activities  
-  
-  
+✧ Achieve a 6-digit salary
+✧ Travel to many countries
+✧ Grow professionally and personally
+
   
   ## 🌐 Connect With Me
   
