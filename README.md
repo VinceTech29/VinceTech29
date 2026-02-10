@@ -4,39 +4,21 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 30px;">
-  <a href="https://lvp-site.netlify.app/" target="_blank" rel="noopener noreferrer style="
+<div align="center" style="margin-top: 20px;">
+  <a href="https://lvp-site.netlify.app/" target="_blank" rel="noopener noreferrer" style="
     display: inline-block;
     background: linear-gradient(135deg, #1E90FF, #00BFFF);
     color: white;
     font-weight: bold;
-    padding: 14px 36px;
-    border-radius: 16px;
+    padding: 12px 30px;
+    border-radius: 12px;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.1rem;
-    position: relative;
-    overflow: hidden;
-    transition: all 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.4)'; this.style.background='linear-gradient(135deg, #00BFFF, #1E90FF)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.2)'; this.style.background='linear-gradient(135deg, #1E90FF, #00BFFF)';">
+    transition: transform 0.2s, box-shadow 0.2s;
+  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
     🌐 My Portfolio
-    <span style="
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: rgba(255,255,255,0.2);
-      transform: rotate(45deg);
-      pointer-events: none;
-      transition: all 0.5s ease;
-    "></span>
   </a>
 </div>
-
-
 
 
 
