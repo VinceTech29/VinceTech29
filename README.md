@@ -35,7 +35,7 @@
 
   ## Hello, World!☾✩
   
-I’m **Vince Pablo**, an aspiring software engineer and a continuous learner who enjoys exploring new technologies, improving my skills, and building projects along the way.
+I’m **Vince Pablo**, an aspiring software engineer and UI/UX designer a continuous learner who enjoys exploring new technologies, improving my skills, and building projects along the way.
   
   
   
