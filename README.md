@@ -5,7 +5,7 @@
 </p>
 
 <div align="center" style="margin-top: 30px;">
-  <a href="https://lvp-site.netlify.app/" target="_blank" style="
+  <a href="https://lvp-site.netlify.app/" target="_blank" rel="noopener noreferrer style="
     display: inline-block;
     background: linear-gradient(135deg, #1E90FF, #00BFFF);
     color: white;
