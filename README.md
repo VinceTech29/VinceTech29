@@ -45,7 +45,7 @@ I’m Vincent, an aspiring software engineer and a continuous learner who enjoys
 - ✧ Internet of Things (IoT)
 - ✧ Research
 
-  ##  Goals & Vision
+## Goals & Vision
   
 - ✧ Achieve a 6-digit salary
 - ✧ Travel to many countries
