@@ -40,16 +40,16 @@ I’m Vincent, an aspiring software engineer and a continuous learner who enjoys
   
   
   ## Forte & Interests
--✧ UI / UX Design
--✧ Database Analytics
--✧ Internet of Things (IoT)
--✧ Research
+- ✧ UI / UX Design
+- ✧ Database Analytics
+- ✧ Internet of Things (IoT)
+- ✧ Research
   
   ## Goals & Vision
   
--✧ Achieve a 6-digit salary
--✧ Travel to many countries
--✧ Grow professionally and personally
+- ✧ Achieve a 6-digit salary
+- ✧ Travel to many countries
+- ✧ Grow professionally and personally
 
   
   ## 🌐 Connect With Me
