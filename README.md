@@ -4,6 +4,23 @@
   </a>
 </p>
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/VinceTech29" target="_blank" style="
+    display: inline-block;
+    background: linear-gradient(135deg, #1E90FF, #00BFFF);
+    color: white;
+    font-weight: bold;
+    padding: 12px 30px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: transform 0.2s, box-shadow 0.2s;
+  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    🌐 My Portfolio
+  </a>
+</div>
+
+
 
 
   <h4 align="center">BSIT Student | Mentor | Tech Enthusiast</h4>
