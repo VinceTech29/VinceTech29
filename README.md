@@ -87,6 +87,6 @@ I’m **Vince Pablo**, an aspiring software engineer and UI/UX designer a contin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
   </div>
   
-  # sample
+
   
   ⭐ *Simple. Focused. Always improving.*
