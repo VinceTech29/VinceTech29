@@ -88,5 +88,5 @@ I’m **Vince Pablo**, an aspiring software engineer and UI/UX designer a contin
   </div>
   
 
-  
+⭐ *Simple. Focused. Always improving.*
 
