@@ -101,8 +101,7 @@ I’m **Vince Pablo**, an aspiring software engineer and UI/UX designer a contin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/leokhoa/laragon/master/bin/laragon.ico" height="40" alt="Laragon"/>
+
 </div>
   
 
